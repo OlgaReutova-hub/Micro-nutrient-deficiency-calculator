@@ -14,6 +14,11 @@
   - жёлтый — 60–89%;
   - красный — &lt; 60%.
 
+<img width="1823" height="803" alt="image" src="https://github.com/user-attachments/assets/c346e9fd-314f-4867-9b19-a2ead4363315" />
+
+<img width="1764" height="845" alt="image" src="https://github.com/user-attachments/assets/9afe5453-47e6-4fde-bb72-7c732e8b05d1" />
+
+
 ## Требования
 
 - Python 3.10+
