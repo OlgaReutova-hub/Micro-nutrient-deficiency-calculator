@@ -19,6 +19,3 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Сгенерированные артефакты
-scripts/menu_1200_2000_menus.md
-menu_1200_2000_extended_nutrients.json
